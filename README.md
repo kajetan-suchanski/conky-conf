@@ -11,7 +11,7 @@ following information:
 
 ## System requirements
 
-This branch is dedicated to **12 CPUs** and **Full HD** (1920×1080) display.
+This branch is dedicated to **16 CPUs** and **Full HD** (1920×1080) display.
 
 ## Installation
 
