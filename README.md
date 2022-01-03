@@ -20,5 +20,5 @@ In order to you use it, just run these simple commands (assuming you have *conky
 ```shell
 mkdir ~/.config/conky
 cd ~/.config/conky
-git clone https://github.com/kajetan-suchanski/conky-conf.git .
+git clone -b version/cpu-12-full-hd https://github.com/kajetan-suchanski/conky-conf.git .
 ```
